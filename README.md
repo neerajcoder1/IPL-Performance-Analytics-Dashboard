@@ -1,5 +1,5 @@
 # IPL Performance Analytics Dashboard
-<img width="1080" height="1080" alt="1_TYw04t2AVUinwpn4fsxU-Q" src="https://github.com/user-attachments/assets/b849cde3-4718-4f22-8e5c-cb0b39b3485a" />
+<img width="500" height="500" alt="1_TYw04t2AVUinwpn4fsxU-Q" src="https://github.com/user-attachments/assets/b849cde3-4718-4f22-8e5c-cb0b39b3485a" />
 
 
 
